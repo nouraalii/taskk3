@@ -1,0 +1,57 @@
+body{
+   background-image: url(1.jfif);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.text{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    padding-top: 200px;
+}
+
+.words{
+    text-align: center;
+    color: white;
+    
+}
+
+.ullist {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.lilist {
+  float: left;
+  margin: -5px;
+  padding: 5;
+}
+
+li a {
+  display: block;
+  color:white;
+  text-align: center;
+  padding: 14px 16px;
+  
+  text-decoration: none;
+}
+
+.home{
+    background-color: #ddd;
+}
+  
+.btn{
+    text-align: center;
+    background-color:rgb(0, 60, 255);
+    margin-left: 600px;
+    font-size: 16px;
+    border: none;
+    padding: 14px 16px;
+    color: white;
+    border-radius: 10px;
+}
+
+  
+  
